@@ -51,8 +51,7 @@ The model is trained to recognize the following 5 specific yoga poses:
 4.  **Inference:** The processed image is passed to the TFLite interpreter.
 5.  **Visualization:** The predicted class and confidence score are overlaid on the original video feed.
 
-## 📸 Demo
-*(Add a screenshot of yourself or a test subject doing a yoga pose here)*
+
 
 ## 🤝 Contribution
 Contributions are welcome! If you want to add more poses or improve the model accuracy, feel free to submit a Pull Request.
